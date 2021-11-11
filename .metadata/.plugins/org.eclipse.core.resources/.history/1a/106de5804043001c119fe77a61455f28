@@ -1,0 +1,17 @@
+package runPackage;
+
+import myPackage.Q1;
+import myPackage.Q2;
+import myPackage.Q3;
+
+public class Driver {
+
+	public static void main(String... args) {
+		
+		Q1.main(args); System.out.print("\n");
+		Q2.main(args); System.out.print("\n");
+		Q3.main(args); System.out.print("\n");
+		
+		
+	}
+}

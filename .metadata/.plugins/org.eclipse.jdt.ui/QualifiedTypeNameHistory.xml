@@ -1,2 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="myPackage2.Variables"/>
+    <fullyQualifiedTypeName name="myPackage2.Q15a.MathOps"/>
+    <fullyQualifiedTypeName name="myPackage2.Q15b"/>
+    <fullyQualifiedTypeName name="myPackage.Q1"/>
+    <fullyQualifiedTypeName name="myPackage.Q2"/>
+    <fullyQualifiedTypeName name="myPackage.Q3"/>
+    <fullyQualifiedTypeName name="myPackage.Q4"/>
+    <fullyQualifiedTypeName name="myPackage.Q5"/>
+    <fullyQualifiedTypeName name="myPackage.Q6"/>
+    <fullyQualifiedTypeName name="myPackage.Q7"/>
+    <fullyQualifiedTypeName name="myPackage.Q8"/>
+    <fullyQualifiedTypeName name="myPackage.Q9"/>
+    <fullyQualifiedTypeName name="myPackage.Q10"/>
+    <fullyQualifiedTypeName name="myPackage.Q7cont"/>
+    <fullyQualifiedTypeName name="myPackage.Q11"/>
+    <fullyQualifiedTypeName name="myPackage.Q12"/>
+    <fullyQualifiedTypeName name="myPackage.Q13"/>
+    <fullyQualifiedTypeName name="myPackage.Q14"/>
+    <fullyQualifiedTypeName name="myPackage.Q15"/>
+    <fullyQualifiedTypeName name="myPackage.Q16"/>
+    <fullyQualifiedTypeName name="myPackage.Q18"/>
+    <fullyQualifiedTypeName name="myPackage.Q19"/>
+    <fullyQualifiedTypeName name="myPackage.Q20"/>
+    <fullyQualifiedTypeName name="myPackage.Q17"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,12 @@
+package runPackage;
+
+import myPackage.Q1;
+
+public class Driver {
+
+	public static void main(String... args) {
+		
+		Q1.main(args);
+		
+	}
+}

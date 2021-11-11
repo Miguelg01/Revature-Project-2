@@ -1,0 +1,10 @@
+package myPackage;
+
+public class Driver {
+
+	public static void main(String [] args) {
+		
+		Q1 bubblesort = new Q1();
+		bubblesort.Q1();
+	}
+}

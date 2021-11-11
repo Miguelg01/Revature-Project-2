@@ -1,0 +1,19 @@
+package myPackage2;
+
+// Operations for question 15
+
+public class Q15a {
+
+    public double addition(double one,double two) {
+		return 0;
+	}
+    public double subtraction(double one,double two) {
+		return 0;
+	}
+    public double multiplication(double one,double two) {
+		return 0;
+	}
+    public double division(double one,double two) {
+		return 0;
+	}
+}
